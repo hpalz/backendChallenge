@@ -19,6 +19,9 @@ Image 3: Get invalid url:
 Image 4: Get valid url:
 <img width="682" alt="image" src="https://github.com/hpalz/backendChallenge/assets/30097564/55ea3b83-52b6-46d0-9dda-3f4fafd9e8e0">
 
+Image 5: Post existing url with force timeout:
+<img width="853" alt="image" src="https://github.com/hpalz/backendChallenge/assets/30097564/df8d56b9-9db8-4e3f-965e-ccb1175983c4">
+
 Data stored locally in json:
 <img width="492" alt="image" src="https://github.com/hpalz/backendChallenge/assets/30097564/e519750c-bc99-444f-9977-f8ee032cad76">
 
